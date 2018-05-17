@@ -1,12 +1,6 @@
-# Teminal
+# Node modules reference
 
-## Usage
+## Teminal
 
-```js
-const chalk = require('chalk');
+- [chalk](https://github.com/chalk/chalk) - Terminal string styling done right
 
-console.log(chalk.blue('Hello world!'));
-```
-
-<img src="https://cdn.rawgit.com/chalk/ansi-styles/8261697c95bf34b6c7767e2cbe9941a851d59385/screenshot.svg" alt="" width="900">
-https://github.com/chalk/chalk
