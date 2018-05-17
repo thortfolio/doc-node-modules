@@ -18,11 +18,27 @@
 ## Webpack
 
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Visualize size of webpack output files
-
+- [eslint-loader](https://github.com/webpack-contrib/eslint-loader) - eslint loader for webpack
+- [sass-loader](https://github.com/webpack-contrib/sass-loader) - Loads a Sass/SCSS file and compiles it to CSS
+- [style-loader](https://github.com/webpack-contrib/style-loader) - Adds CSS to the DOM by injecting a <style> tag
+- [css-loader](https://github.com/webpack-contrib/css-loader) - CSS Loader
 
 ## Javascript
 
 - [eslint](https://github.com/eslint/eslint) - Identifying and reporting on patterns
-- [eslint-loader](https://github.com/webpack-contrib/eslint-loader) - eslint loader for webpack
 - [eslint-friendly-formatter](https://github.com/royriojas/eslint-friendly-formatter) - A simple formatter/reporter for ESLint 
+
+
+## CSS
+
+- [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
+- [autoprefixer](https://github.com/postcss/autoprefixer) - PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values
+- [node-sass](https://github.com/sass/node-sass) - Stylesheet preprocessor
+
+
+## HTML
+
+- [pug](https://github.com/pugjs/pug) - Template engine for Node.js
+
+
 
