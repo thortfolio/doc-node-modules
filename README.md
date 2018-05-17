@@ -13,6 +13,7 @@
 
 ## Webpack
 - [webpack-dev-server](https://github.com/webpack/webpack-dev-server) - A development server that provides live reloading
+- [webpack-merge](https://github.com/survivejs/webpack-merge) - Merge designed for Webpack
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Visualize size of webpack output files
 - [url-loader](https://github.com/webpack-contrib/url-loader) - Loads files as `base64` encoded URL
 - [raw-loader](https://github.com/webpack-contrib/raw-loader) - A loader for webpack that allows importing files as a String.
