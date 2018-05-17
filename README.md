@@ -38,7 +38,7 @@
 ## HTML
 - [pug](https://github.com/pugjs/pug) - Template engine for Node.js
 
-## Linter
+## Lint
 - [eslint](https://github.com/eslint/eslint) - Identifying and reporting on patterns
 - [eslint-friendly-formatter](https://github.com/royriojas/eslint-friendly-formatter) - A simple formatter/reporter for ESLint 
 
