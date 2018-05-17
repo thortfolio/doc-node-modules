@@ -1,9 +1,7 @@
 # Node modules reference
 - [Node.js v10.1.0 Documentation](https://nodejs.org/docs/latest/api/index.html)
 
-
 ## Utility
-
 - [chalk](https://github.com/chalk/chalk) - Terminal string styling done right
 - [shelljs](https://github.com/shelljs/shelljs) - Unix shell commands for Node.js
 - [node-notifier](https://github.com/mikaelbr/node-notifier) - Send cross platform native notifications using Node.js
@@ -13,9 +11,7 @@
 - [semver](https://github.com/npm/node-semver) - The semantic versioner for npm
 - [node-portfinder](https://github.com/indexzero/node-portfinder) - A simple tool to find an open port or domain socket
 
-
 ## Webpack
-
 - [webpack-dev-server](https://github.com/webpack/webpack-dev-server) - A development server that provides live reloading
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Visualize size of webpack output files
 - [url-loader](https://github.com/webpack-contrib/url-loader) - Loads files as `base64` encoded URL
@@ -29,30 +25,21 @@
 - [css-loader](https://github.com/webpack-contrib/css-loader) - CSS Loader
 - [pug-html-loader](https://github.com/willyelm/pug-html-loader) - Pug HTML loader for webpack
 
-
 ## Javascript
-
 - [babel-core](https://github.com/babel/babel/tree/master/packages/babel-core) - Babel is a compiler for writing next generation JavaScript
-- [eslint](https://github.com/eslint/eslint) - Identifying and reporting on patterns
-- [eslint-friendly-formatter](https://github.com/royriojas/eslint-friendly-formatter) - A simple formatter/reporter for ESLint 
-
 
 ## CSS
-
 - [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [autoprefixer](https://github.com/postcss/autoprefixer) - PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values
 - [node-sass](https://github.com/sass/node-sass) - Stylesheet preprocessor
 
-
 ## HTML
-
 - [pug](https://github.com/pugjs/pug) - Template engine for Node.js
 
-
 ## Test
-
+- [eslint](https://github.com/eslint/eslint) - Identifying and reporting on patterns
+- [eslint-friendly-formatter](https://github.com/royriojas/eslint-friendly-formatter) - A simple formatter/reporter for ESLint 
 - [jest](https://github.com/facebook/jest) - JavaScript Testing
-
 
 ## Polyfill
 
