@@ -12,3 +12,7 @@
 
 - [semver](https://github.com/npm/node-semver) - The semantic versioner for npm
 
+## Javascript
+
+- [eslint](https://github.com/eslint/eslint), [eslint-loader](https://github.com/webpack-contrib/eslint-loader) - Identifying and reporting on patterns
+- [eslint-friendly-formatter](https://github.com/royriojas/eslint-friendly-formatter) - A simple formatter/reporter for ESLint 
