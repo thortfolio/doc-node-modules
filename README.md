@@ -3,6 +3,7 @@
 ## Teminal
 
 - [chalk](https://github.com/chalk/chalk) - Terminal string styling done right
+- [shelljs](https://github.com/shelljs/shelljs) - Unix shell commands for Node.js
 
 
 ## Utility
