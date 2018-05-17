@@ -27,6 +27,7 @@
 
 ## Javascript
 - [babel-core](https://github.com/babel/babel/tree/master/packages/babel-core) - Babel is a compiler for writing next generation JavaScript
+- [typescript](https://github.com/Microsoft/TypeScript) - A superset of JavaScript that compiles to clean JavaScript output
 
 ## CSS
 - [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
