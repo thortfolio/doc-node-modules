@@ -1,4 +1,6 @@
 # Node modules reference
+- [Node.js v10.1.0 Documentation](https://nodejs.org/docs/latest/api/index.html)
+
 
 ## Teminal
 
@@ -17,14 +19,27 @@
 
 ## Webpack
 
+- [webpack-dev-server](https://github.com/webpack/webpack-dev-server) - A development server that provides live reloading
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Visualize size of webpack output files
+- [url-loader](https://github.com/webpack-contrib/url-loader) - Loads files as `base64` encoded URL
+- [raw-loader](https://github.com/webpack-contrib/raw-loader) - A loader for webpack that allows importing files as a String.
+- [file-loader](https://github.com/webpack-contrib/file-loader) - A file loader for webpack
+- [babel-loader](https://github.com/babel/babel-loader) - Webpack plugin for Babel
 - [eslint-loader](https://github.com/webpack-contrib/eslint-loader) - eslint loader for webpack
 - [sass-loader](https://github.com/webpack-contrib/sass-loader) - Loads a Sass/SCSS file and compiles it to CSS
 - [style-loader](https://github.com/webpack-contrib/style-loader) - Adds CSS to the DOM by injecting a <style> tag
+- [postcss-loader](https://github.com/postcss/postcss-loader) - Loader for webpack to process CSS with PostCSS
 - [css-loader](https://github.com/webpack-contrib/css-loader) - CSS Loader
+- [pug-html-loader](https://github.com/willyelm/pug-html-loader) - Pug HTML loader for webpack
+
+## test
+
+- [jest](https://github.com/facebook/jest) - JavaScript Testing
+
 
 ## Javascript
 
+- [babel-core](https://github.com/babel/babel/tree/master/packages/babel-core) - Babel is a compiler for writing next generation JavaScript
 - [eslint](https://github.com/eslint/eslint) - Identifying and reporting on patterns
 - [eslint-friendly-formatter](https://github.com/royriojas/eslint-friendly-formatter) - A simple formatter/reporter for ESLint 
 
