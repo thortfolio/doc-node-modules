@@ -38,10 +38,15 @@
 ## HTML
 - [pug](https://github.com/pugjs/pug) - Template engine for Node.js
 
-## Test
+## Linter
 - [eslint](https://github.com/eslint/eslint) - Identifying and reporting on patterns
 - [eslint-friendly-formatter](https://github.com/royriojas/eslint-friendly-formatter) - A simple formatter/reporter for ESLint 
+
+## Test(unit)
 - [jest](https://github.com/facebook/jest) - JavaScript Testing
+
+## Test(e2e)
+- [nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated testing and continous integration framework based on node.js and selenium webdriver
 
 ## Polyfill
 
